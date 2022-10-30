@@ -73,7 +73,7 @@ main{margin-top: 30px;}
 article{
     margin: auto;
     margin-top: 20px;
-    width: 80vw;
+    width: 80%;
 }
 
 article h2{
@@ -84,12 +84,12 @@ article h2{
 }
 
 article p{
-    font: normal 1.25em var(--font-padrao);
+    font: normal 1.25rem var(--font-padrao);
     text-align: justify;
     line-height: 2em;
     letter-spacing: 3px;
     color: var(--cor2);
-    padding-bottom: 2em;
+    padding-bottom: 2rem;
 }
 
 #date ul{
